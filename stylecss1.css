@@ -111,9 +111,8 @@ div.middle-btn {
 	padding-bottom: 14px;
 	padding-right: 47px;
 	padding-left: 42px;
-	background: #eef0f2;
+	
 	color: black;
-	border: 2px;
-	border-color: grey;
+	border: 2px solid gray;
 	border-radius: 38px;
 }
