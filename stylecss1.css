@@ -1,0 +1,119 @@
+body {
+	width: 1600px;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background: url(project1/photomain.jpg);
+	padding-bottom: 500px;
+}
+
+.container {
+	width: 1170px;
+	margin-left: 215px;
+	margin-right: 215px;
+	align-items: center;
+}
+
+.topline {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 45px;
+	align-items: center;
+}
+
+.blackcolor {
+	color: black;
+}
+
+.graycolor {
+	color: #8c8f94;
+}
+
+p {
+	color: #8c8f94;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+.menu-item {
+	font-size: 16px;
+	margin-right: 40px;
+}
+
+.menu-list {
+	display: flex;
+	align-items: center;
+}
+
+.btn-blue {
+	width: 132px;
+	height: 42px;
+	padding-top: 5px ;
+	padding-bottom: 5px;
+	padding-left: 18px;
+	padding-right: 24px;
+
+	font-size: 14px;
+	text-align: center;
+
+	background: #267df4;
+	color: white;
+
+	border: 2px;
+	border-radius: 38px; 	
+}
+a {
+	text-decoration: none;
+}
+
+.main {
+	display: flex;
+}
+
+h1 {
+	font-size: 62px;
+	line-height: 72px;
+}
+
+.main__title {
+	margin-left: 370px;
+}
+
+.main-title {
+	width: 800px;
+	padding: 0;
+	margin-top: 125px;
+	text-align:center;
+}
+
+div.main-title p {
+	padding-right: 38px;
+	padding-left: 38px;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+div.middle-btn {
+	text-align: center;
+	margin-top: 60px;
+}
+
+.middle-button {
+	width: 205px;
+	height: 50px;
+	font-size: 16px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	padding-right: 47px;
+	padding-left: 42px;
+	background: #eef0f2;
+	color: black;
+	border: 2px;
+	border-color: grey;
+	border-radius: 38px;
+}
